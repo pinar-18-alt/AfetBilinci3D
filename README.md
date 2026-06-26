@@ -1,98 +1,99 @@
-# Afet Bilinci 3D: Guvenli Oda Macerasi
+# Afet Bilinci 3D: Güvenli Oda Macerası
 
-Afet Bilinci 3D, ilkokul cagindaki cocuklar icin gelistirilmis 3D, hikaye temelli ve game-based learning odakli bir afet bilinci oyunudur. Proje, cocuklari korkutmak yerine guvenli davranislari deneyimleyerek ogrenmelerini hedefler.
+Afet Bilinci 3D, ilkokul çağındaki çocuklar için geliştirilmiş 3D, hikâye temelli ve oyun tabanlı öğrenme yaklaşımını kullanan bir afet bilinci oyunudur. Projenin temel amacı, çocuklara deprem anında ve sonrasında uygulanması gereken güvenli davranışları korkutmadan, yaş düzeylerine uygun bir oyun deneyimi içinde öğretmektir.
 
-Oyuncu, ev ortaminda acil durum cantasi hazirlar, sarsinti sirasinda guvenli bir alana yonelir, binadan tahliye olur, merdiven/asansor tercihini degerlendirir, acik alandaki toplanma bolgesine ulasir ve kisa bir mini sinavla ogrendiklerini pekistirir.
+Oyuncu; ev ortamında acil durum çantası hazırlar, sarsıntı sırasında güvenli bir alana yönelir, binadan doğru şekilde tahliye olur, merdiven ve asansör seçeneklerini değerlendirir, açık alandaki güvenli toplanma bölgesine ulaşır ve kısa bir mini sınavla öğrendiklerini pekiştirir.
 
-## Egitim Amaci
+## Eğitim Amacı
 
-Bu proje, afet bilinci egitimini cocuklarin bilissel seviyesine uygun, kisa yonlendirmelerle desteklenen ve guvenli davranis pratikleri iceren bir oyun deneyimine donusturur.
+Bu proje, afet bilinci eğitimini çocukların bilişsel gelişim düzeyine uygun, kısa yönergelerle desteklenen ve güvenli davranış pratiği sunan bir oyun deneyimine dönüştürür.
 
-Onemli tasarim ilkeleri:
+Tasarımda öne çıkan temel ilkeler:
 
-- Travmatik, siddetli, kanli veya asiri tetikleyici sahneler kullanilmaz.
-- Deprem ve tahliye konulari korku uzerinden degil, dogru davranisi ogretme uzerinden anlatilir.
-- Metinler kisa, okunakli ve cocuklarin takip edebilecegi sadeliktedir.
-- Gorevlerde `E tusuna bas` veya `E tusuna basili tut` gibi net eylem komutlari kullanilir.
-- Yanlis secimler cezalandirici degil, ogretici geri bildirimlerle desteklenir.
-- Son bolumde mini sinav ile 112 Acil Cagri Merkezi ve guvenli alan bilgisi pekistirilir.
+- Travmatik, şiddet içeren, kanlı veya aşırı tetikleyici görsellere yer verilmez.
+- Deprem ve tahliye süreci korku duygusu üzerinden değil, doğru davranışları öğretme amacıyla ele alınır.
+- Ekrandaki metinler kısa, okunaklı ve çocukların kolayca takip edebileceği biçimdedir.
+- Görevlerde `E tuşuna bas` ve `E tuşuna basılı tut` gibi açık ve doğrudan eylem yönergeleri kullanılır.
+- Yanlış seçimler cezalandırıcı şekilde değil, öğretici geri bildirimlerle açıklanır.
+- Son bölümde yer alan mini sınav ile 112 Acil Çağrı Merkezi, güvenli alan seçimi ve afet sonrası davranışlar pekiştirilir.
 
-## Oyun Akisi
+## Oyun Akışı
 
-1. Oyuncu adini girer ve maceraya baslar.
-2. Evde acil durum cantasi icin gerekli esyalari toplar.
-3. Sarsinti basladiginda guvenli masaya yonelir ve cok-kapan-tutun davranisini uygular.
-4. Evden cikisa ilerler.
-5. Apartman koridorunda asansor ve merdiven seceneklerini degerlendirir.
-6. Dis alanda tabelalari ve ok isaretlerini takip ederek guvenli toplanma alanina gider.
-7. Toplanma alaninda cadir kurma gorevini tamamlar.
-8. 3 soruluk mini sinavla ogrendiklerini pekistirir.
-9. Skor ekraninda toplam puan, sure ve tamamlanan gorevler goruntulenir.
+1. Oyuncu adını girer ve maceraya başlar.
+2. Evde acil durum çantası için gerekli eşyaları toplar.
+3. Sarsıntı başladığında güvenli masaya yönelir ve çök-kapan-tutun davranışını uygular.
+4. Evden çıkış noktasına ilerler.
+5. Apartman koridorunda asansör ve merdiven seçeneklerini değerlendirir.
+6. Dış alanda tabelaları ve yönlendirme işaretlerini takip ederek güvenli toplanma alanına gider.
+7. Toplanma alanında çadır kurma görevini tamamlar.
+8. Üç soruluk mini sınavla öğrendiklerini pekiştirir.
+9. Skor ekranında toplam puan, süre ve tamamlanan görev sayısı görüntülenir.
 
-## Ekran Goruntuleri
+## Ekran Görüntüleri
 
-### 1. Giris Ekrani
-![Giris Ekrani](docs/screenshots/01-giris-ekrani.png)
+### 1. Giriş Ekranı
+![Giriş Ekranı](docs/screenshots/01-giris-ekrani.png)
 
-### 2. Acil Durum Cantasi Hazirlama
-![Canta Hazirlama](docs/screenshots/02-canta-hazirlama.png)
+### 2. Acil Durum Çantası Hazırlama
+![Çanta Hazırlama](docs/screenshots/02-canta-hazirlama.png)
 
-### 3. Sarsinti ve Guvenli Alan
-![Sarsinti ve Guvenli Alan](docs/screenshots/03-sarsinti-guvenli-alan.png)
+### 3. Sarsıntı ve Güvenli Alan
+![Sarsıntı ve Güvenli Alan](docs/screenshots/03-sarsinti-guvenli-alan.png)
 
-### 4. Evden Cikis
-![Evden Cikis](docs/screenshots/04-evden-cikis.png)
+### 4. Evden Çıkış
+![Evden Çıkış](docs/screenshots/04-evden-cikis.png)
 
 ### 5. Apartman Koridoru
 ![Apartman Koridoru](docs/screenshots/05-apartman-koridoru.png)
 
-### 6. Guvenli Alana Yonlendirme
-![Guvenli Alana Yonlendirme](docs/screenshots/06-guvenli-alana-yonlendirme.png)
+### 6. Güvenli Alana Yönlendirme
+![Güvenli Alana Yönlendirme](docs/screenshots/06-guvenli-alana-yonlendirme.png)
 
-### 7. Cadir Kurma Gorevi
-![Cadir Kurma](docs/screenshots/07-cadir-kurma.png)
+### 7. Çadır Kurma Görevi
+![Çadır Kurma](docs/screenshots/07-cadir-kurma.png)
 
-### 8. Mini Sinav
-![Mini Sinav](docs/screenshots/08-mini-sinav.png)
+### 8. Mini Sınav
+![Mini Sınav](docs/screenshots/08-mini-sinav.png)
 
-### 9. Skor Ekrani
-![Skor Ekrani](docs/screenshots/09-skor-ekrani.png)
+### 9. Skor Ekranı
+![Skor Ekranı](docs/screenshots/09-skor-ekrani.png)
 
-## Temel Ozellikler
+## Temel Özellikler
 
-- 3D cocuk karakteri ve kamera takip sistemi
-- Cocuk dostu gorev metinleri
-- Acil durum cantasi kontrol listesi
-- Etkilesimli esya toplama sistemi
-- Guvenli alan vurgusu
-- Cok-kapan-tutun gorevi
-- Merdiven/asansor farkindaligi
-- Guvenli toplanma alani ve cadir kurma gorevi
-- 112 odakli mini sinav
-- Puan, sure ve gorev sayisi iceren sonuc ekrani
+- 3D çocuk karakteri ve kamera takip sistemi
+- Çocuk dostu, kısa ve anlaşılır görev metinleri
+- Acil durum çantası için kontrol listesi
+- Etkileşimli eşya toplama sistemi
+- Güvenli alanı görünür kılan yönlendirme ve vurgu sistemi
+- Çök-kapan-tutun görevi
+- Merdiven ve asansör kullanımı üzerine farkındalık
+- Güvenli toplanma alanına yönlendirme
+- Çadır kurma görevi
+- 112 odaklı mini sınav
+- Puan, süre ve görev sayısını gösteren sonuç ekranı
 
 ## Teknik Bilgiler
 
-- Motor: Unity 6.3 LTS
+- Oyun motoru: Unity 6.3 LTS
 - Render Pipeline: URP
-- Platform: Windows, Mac, Linux Standalone
-- Dil: C#
+- Hedef platform: Windows, Mac ve Linux Standalone
+- Programlama dili: C#
 
-Projeyi acmak icin:
+Projeyi açmak için:
 
-1. Unity Hub uzerinden projeyi acin.
-2. Unity surumu olarak `6000.3.10f1` veya uyumlu Unity 6.3 LTS kullanin.
-3. Ilk acilista Unity'nin assetleri import etmesini bekleyin.
-4. Baslangic sahnesi: `Assets/Scenes/GirisEkrani.unity`
+1. Unity Hub üzerinden projeyi açın.
+2. Unity sürümü olarak `6000.3.10f1` veya uyumlu bir Unity 6.3 LTS sürümü kullanın.
+3. İlk açılışta Unity'nin dosyaları içe aktarmasını bekleyin.
+4. Başlangıç sahnesi: `Assets/Scenes/GirisEkrani.unity`
 
 ## GitHub Notu
 
-Bu projede ucuncu parti Unity asset paketleri kullanilmistir. Asset lisanslarina dikkat edilmelidir. Eger Asset Store paketlerinin yeniden dagitimi konusunda emin degilseniz repoyu private olarak tutmaniz onerilir.
+Bu projede üçüncü parti Unity asset paketleri kullanılmıştır. Asset lisansları ve dosya boyutları nedeniyle büyük 3D model, doku ve paket içerikleri GitHub reposuna eklenmemiştir. Bu dosyalar yerel Unity projesinde korunur.
 
-Bu GitHub reposu, proje tanitimi, ekran goruntuleri, Unity ayarlari ve C# kaynak kodlarini paylasmak icin hazirlanmistir. Buyuk 3D asset dosyalari repoya eklenmemistir; yerel Unity projesinde korunur.
+Bu repo; proje tanıtımını, ekran görüntülerini, Unity ayarlarını, sahne dosyalarını ve C# kaynak kodlarını paylaşmak için hazırlanmıştır. Projeyi farklı bir bilgisayarda birebir çalıştırmak için kullanılan üçüncü parti asset paketlerinin ayrıca içe aktarılması gerekebilir.
 
-Import edilmis asset icerikleri ve `.unitypackage` arsiv dosyalari GitHub disinda tutulur. Bu tercih hem lisans hassasiyeti hem de GitHub depolama limitleri nedeniyle yapilmistir.
+## Eğitimsel Yaklaşım
 
-## Egitimsel Yaklasim
+Afet Bilinci 3D, çocukların afet sırasında ve sonrasında temel güvenlik davranışlarını oyun içinde deneyimleyerek öğrenmesini amaçlar. Oyun; korkutucu sahneler yerine rehberlik eden görevler, olumlu pekiştirme, kısa yönergeler ve güvenli geri bildirimler kullanır.
 
-Afet Bilinci 3D, cocuklarin afet sirasinda ve sonrasinda temel guvenlik davranislarini oyun icinde pratik ederek ogrenmesini amaclar. Oyun, korkutucu sahneler yerine rehberlik eden gorevler, olumlu pekistirme ve kisa geri bildirimler kullanir. Bu nedenle proje, travmatik afet simulasyonu degil; cocuk dostu, ogretici ve guvenli bir farkindalik deneyimi olarak tasarlanmistir.
+Bu nedenle proje, travmatik bir afet simülasyonu olarak değil; çocuk dostu, öğretici ve güvenli bir farkındalık deneyimi olarak tasarlanmıştır.
