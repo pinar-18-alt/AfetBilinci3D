@@ -1,0 +1,55 @@
+# Unity generated folders
+/Library/
+/Temp/
+/Obj/
+/obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+/MemoryCaptures/
+/Recordings/
+
+# Keep third-party/game assets out of the GitHub repo.
+# The local Unity project still keeps these files on disk.
+/Assets/**
+!/Assets/
+!/Assets/**/
+!/Assets/**/*.cs
+!/Assets/**/*.cs.meta
+!/Assets/Scenes/
+!/Assets/Scenes/*.unity
+!/Assets/Scenes/*.unity.meta
+
+# Imported Asset Store archives are large and redundant once their content is in Assets.
+*.unitypackage
+*.unitypackage.meta
+
+# Unity generated files
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# IDE / OS
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Unity cache / crash reports
+sysinfo.txt
+*.stackdump
+
+# Asset metadata is also excluded unless it belongs to a tracked C# script.
